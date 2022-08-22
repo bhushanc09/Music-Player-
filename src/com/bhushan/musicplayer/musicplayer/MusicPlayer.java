@@ -83,9 +83,9 @@ public class MusicPlayer {
 			break;
 		}
 		}
-		}catch(InputMismatchException e) {
-			System.out.println("invalid input");
-		}
+	} catch (InputMismatchException e) {
+		System.out.println("invalid input");
+	}
 
 	}
 }

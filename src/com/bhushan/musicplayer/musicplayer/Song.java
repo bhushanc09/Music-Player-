@@ -64,8 +64,7 @@ public class Song {
 
 	@Override
 	public String toString() {
-		return "" + id + "|" + songName + "|" + singerName + "|" + movieName
-				+ "|" + composer + "|" + length + "\n";
+		return "" + id + "|" + songName + "|" + singerName + "|" + movieName + "|" + composer + "|" + length + "\n";
 	}
 
 }
